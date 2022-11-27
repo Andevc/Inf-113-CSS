@@ -85,7 +85,7 @@ span{
     align-self: center;
     margin-left: 50%;
     width: 40%;
-    height: 300px;
+    height: 350px;
     padding: 50px;
     background: #151515bb ;
     box-shadow: 3px 3px var(--color-2), 10px 10px  var(--color-1);   
@@ -128,9 +128,11 @@ span{
 
 .content{
     
+    margin: 0 50px;
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
+ 
 }
 
 .card{
